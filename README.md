@@ -4,9 +4,6 @@
 - 🏫 **B.Tech in ECE** @ IIITDM Jabalpur 
 - 🏆 **JENESYS 2024 Ambassador** (Top 12 selected from India(Science & Technology))
 - 📚 **Amazon ML Summer School 2024** Scholar
-- 💻 **Competitive Programmer**
-- 🚀 **Full-Stack Developer**
-- 🤖 **ML Enthusiast** 
 
 ---
 ## 🔧 Technical Arsenal
@@ -186,59 +183,6 @@
   
 </div>
 
----
-## 🚀 Highlight Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### 📚 [Easy Study - LMS Platform](https://github.com/GarimaUttam/easy-study)  
-<div style="margin-left: 15px;">
-<code>NextJS</code> <code>Prisma</code> <code>MySQL</code> <code>Mux</code>  
-✔ Teacher/student dashboards  
-✔ HLS Video Player with Mux processing  
-✔ Drag-and-drop content organization  
-</div>
-
-</td>
-    <td width="50%" valign="top">
-
-### 🍔 [Foody - Food Ordering System](https://github.com/GarimaUttam/foody)  
-<div style="margin-left: 15px;">
-<code>NextJS</code> <code>MongoDB</code> <code>Stripe</code>  
-✔ 3-tier hierarchy (customer/owner/admin)  
-✔ Secure payments with Stripe  
-✔ Google OAuth integration  
-</div>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧠 [CourseCraft.ai - AI Learning Platform](https://github.com/GarimaUttam/coursecraft)  
-<div style="margin-left: 15px;">
-<code>Gemini AI</code> <code>PostgreSQL</code> <code>Clerk Auth</code>  
-✔ AI-generated courses with filters  
-✔ YouTube API integration for tutorials  
-✔ Note-editing functionality  
-</div>
-
-</td>
-    <td width="50%" valign="top">
-
-### 🍋 [Lemon Quality Inspector](https://github.com/GarimaUttam/lemon-quality)  
-<div style="margin-left: 15px;">
-<code>TensorFlow</code> <code>EfficientNet</code> <code>OpenCV</code>  
-✔ 99.84% accuracy CNN model  
-✔ Processed 1,900+ training images  
-✔ Computer vision pipeline  
-</div>
-
-</td>
-  </tr>
-</table>
 
 ---
 ## 📊 GitHub Analytics
