@@ -211,12 +211,6 @@
         </a>
 </p>
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaUttam&langs_count=10&theme=merko&layout=compact" width="45%" height="15%" alt="GarimaUttam :: Top Langs" />
-<a href="https://github.com/GarimaUttamtab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=GarimaUttam&theme=gitdimmed&no-frame=true&column=3&row=2"  width="48%" alt="Garima Uttam's trophies"/></a>
-</p>
-
 </div>
 
 --- 
