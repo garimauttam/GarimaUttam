@@ -193,8 +193,8 @@
 <p align="center">
 
 
-<a href="https://github.com/garimauttam?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=garimauttam&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@GarimaUttam's github-readme-stats"/></a>
-<a href="https://github.com/GarimaUttamtab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=GarimaUttam&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@GarimaUttam's github-readme-streak-stats"/></a>
+<a href="https://github.com/garimauttam?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=garimauttam&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@garimauttam's github-readme-stats"/></a>
+<a href="https://github.com/garimauttamtab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=garimauttam&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@garimauttam's github-readme-streak-stats"/></a>
 
 </p>
 
@@ -210,8 +210,8 @@
 ## 📫 Let's Connect!
 - 📧 **Email**: garimauttam191203@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garima-uttam)
-- ![Visitor Count](https://komarev.com/ghpvc/?username=GarimaUttam&label=Profile%20views&color=0e75b6&style=flat) 
-[![GitHub followers](https://img.shields.io/github/followers/GarimaUttam?label=Follow&style=social)](https://github.com/garimauttam)
+- ![Visitor Count](https://komarev.com/ghpvc/?username=garimauttam&label=Profile%20views&color=0e75b6&style=flat) 
+[![GitHub followers](https://img.shields.io/github/followers/garimauttam?label=Follow&style=social)](https://github.com/garimauttam)
 
 
 
