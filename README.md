@@ -4,7 +4,6 @@
 - 🏫 **B.Tech in ECE** @ IIITDM Jabalpur 
 - 🏆 **JENESYS 2024 Ambassador** (Top 12 selected from India(Science & Technology))
 
----
 ## 🔧 Technical Arsenal
 
 ### 💻 Programming Languages
@@ -183,42 +182,36 @@
 </div>
 
 
----
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarimaUttam&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Garima Uttam's activity graph">
-    
-
   
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=GarimaUttam&theme=darkmode&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=garimauttam&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 <p align="center">
 
 
-<a href="https://github.com/GarimaUttam?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=GarimaUttam&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@GarimaUttam's github-readme-stats"/></a>
+<a href="https://github.com/garimauttam?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=garimauttam&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@GarimaUttam's github-readme-stats"/></a>
 <a href="https://github.com/GarimaUttamtab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=GarimaUttam&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@GarimaUttam's github-readme-streak-stats"/></a>
 
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="[https://wakatime.com/@GarimaUttam](https://github-readme-activity-graph.vercel.app/graph?username=GarimaUttam&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
+    <a href="[https://wakatime.com/@garimauttam](https://github-readme-activity-graph.vercel.app/graph?username=garimauttam&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
         </a>
 </p>
 
 </div>
 
---- 
 
 ## 📫 Let's Connect!
 - 📧 **Email**: garimauttam191203@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garima-uttam)
 - ![Visitor Count](https://komarev.com/ghpvc/?username=GarimaUttam&label=Profile%20views&color=0e75b6&style=flat) 
-[![GitHub followers](https://img.shields.io/github/followers/GarimaUttam?label=Follow&style=social)](https://github.com/GarimaUttam)
+[![GitHub followers](https://img.shields.io/github/followers/GarimaUttam?label=Follow&style=social)](https://github.com/garimauttam)
 
 
 
